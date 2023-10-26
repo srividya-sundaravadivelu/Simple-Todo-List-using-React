@@ -1,3 +1,5 @@
+Read my tutorial in medium [Simple ToDo List Using React](https://medium.com/@srivi18.2002/simple-to-do-list-using-react-584136b99425).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
